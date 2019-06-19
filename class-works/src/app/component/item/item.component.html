@@ -1,0 +1,88 @@
+<h1>
+  Item works!
+</h1>
+
+
+<!--//////////////////////////////////////////////////////////////////////////////////////-->
+
+
+<div class="row">
+  <div class="col-12 col-md-6">
+    <form>
+      <p>
+        <button class="btn btn-success" type="reset" (click)="txtId.focus(); ">+ New Item</button>
+      </p>
+      <p class="form-group">
+        <label>Code</label>
+        <input name="txtId"  #txtId class="form-control" type="text" [(ngModel)]="selectedItem.code" [minlength]="2">
+      </p>
+      <p class="form-group">
+        <label>Description</label>
+        <input class="form-control" type="text" [value]="selectedItem?.description">
+      </p>
+      <p class="form-group">
+        <label>Qentity</label>
+        <input class="form-control" type="number" [value]="selectedItem?.unitPrice">
+      </p>
+
+      <p class="form-group">
+        <label>unit Price</label>
+        <input class="form-control" type="number" [value]="selectedItem?.qtyOnHand">
+      </p>
+
+      <p>
+        <button class="btn btn-primary">Save</button>
+      </p>
+    </form>
+  </div>
+  <div class="col-12 col-md-6">
+
+
+
+
+    <table class="table table-hover table-bordered">
+      <tr>
+        <th>CODE</th>
+        <th>DESCRIPTION</th>
+        <th>UNIT PRICE</th>
+        <th>QUENTITY ON HAND</th>
+      </tr>
+
+      <tbody>
+
+      <tr *ngFor="let i of items" (click)="selectedItem=i">
+        <td>{{i.code}}</td>
+        <td>{{i.description | uppercase}}</td>
+        <td>{{i.unitPrice | number:'1.2-2' }}</td>
+        <td>{{i.qtyOnHand | number:'1.2-2'}}</td>
+      </tr>
+      </tbody>
+
+    </table>
+
+
+
+
+    <!--<table class="table table-hover table-bordered">-->
+      <!--<thead>-->
+      <!--<tr>-->
+        <!--<th>ID</th>-->
+        <!--<th>Name</th>-->
+        <!--<th>Address</th>-->
+      <!--</tr>-->
+      <!--</thead>-->
+      <!--<tbody>-->
+      <!--<tr *ngFor="let customer of customers" (click)="selectedCustomer=customer">-->
+        <!--<td>{{customer.id}}</td>-->
+        <!--<td>{{customer.name}}</td>-->
+        <!--<td>{{customer.address}}</td>-->
+      <!--</tr>-->
+      <!--</tbody>-->
+    <!--</table>-->
+  </div>
+</div>
+
+
+
+<!--////////////////////////////////////////////////////////////////////////////////////-->
+
