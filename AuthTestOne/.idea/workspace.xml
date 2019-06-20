@@ -8,15 +8,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6dd07e7e-d4cb-4ad9-b7a5-99fce4789d36" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class-works/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class-works/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrosFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CrosFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerServelet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerServelet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ItemServelet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ItemServelet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/dashboard/dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/dashboard/dashboard.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/dashboard/dashboard.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/dashboard/dashboard.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../class-works/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,35 +82,36 @@
     <session id="-591486243">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.61" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="12" />
-          <entry key="java" value="1" />
-          <entry key="scss" value="7" />
+          <entry key="html" value="13" />
+          <entry key="java" value="13" />
+          <entry key="scss" value="8" />
           <entry key="ts" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="12" />
-          <entry key="JAVA" value="1" />
-          <entry key="SCSS" value="7" />
+          <entry key="HTML" value="13" />
+          <entry key="JAVA" value="13" />
+          <entry key="SCSS" value="8" />
           <entry key="TypeScript" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="274" />
-          <entry key="java" value="10" />
+          <entry key="java" value="82" />
           <entry key="scss" value="22" />
           <entry key="ts" value="24" />
         </counts>
@@ -122,20 +119,51 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="274" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="82" />
           <entry key="SCSS" value="22" />
           <entry key="TypeScript" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="Angular2LanguageService" value="3" />
+          <entry key="Angular2LanguageService" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ItemServelet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CrosFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CustomerServelet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3128">
+              <caret line="198" column="113" lean-forward="true" selection-start-line="198" selection-start-column="113" selection-end-line="198" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,14 +181,11 @@
         <option value="$PROJECT_DIR$/src/isAuthServelet.java" />
         <option value="$PROJECT_DIR$/src/AuthServelet.java" />
         <option value="$PROJECT_DIR$/web/META-INF/context.xml" />
-        <option value="$PROJECT_DIR$/src/CrosFilter.java" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/service/customer.service.ts" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/src/ItemServelet.java" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/service/item.service.ts" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/component/item/item.component.ts" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/component/customer/customer.component.ts" />
-        <option value="$PROJECT_DIR$/src/CustomerServelet.java" />
         <option value="$PROJECT_DIR$/src/OrderServelet.java" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/component/footer/footer.component.scss" />
@@ -171,6 +196,11 @@
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/component/item/item.component.html" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/../../class work/class-works/src/app/component/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html" />
+        <option value="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.scss" />
+        <option value="$PROJECT_DIR$/src/CustomerServelet.java" />
+        <option value="$PROJECT_DIR$/src/CrosFilter.java" />
+        <option value="$PROJECT_DIR$/src/ItemServelet.java" />
       </list>
     </option>
   </component>
@@ -188,11 +218,11 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/../../class work/class-works/node_modules" />
+    <handled-path value="$PROJECT_DIR$/../class-works/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/../../class work/class-works/package.json" />
+      <path value="$PROJECT_DIR$/../class-works/package.json" />
     </packageJsonPaths>
   </component>
   <component name="PhpServers">
@@ -210,14 +240,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="class work" type="462c0819:PsiDirectoryNode" />
+              <item name="AuthTestOne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AuthTestOne" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AuthTestOne" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,14 +269,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561016971738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561051139611" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../class-works" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21582733" />
-    <property name="ts.external.directory.path" value="C:\Users\User\Desktop\Intern\angular practice\class work\class-works\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\User\Desktop\Intern\angular practice\servelet-pos\class-works\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -345,12 +385,13 @@
       <workItem from="1560963881812" duration="4510000" />
       <workItem from="1561006533451" duration="2084000" />
       <workItem from="1561011041315" duration="5311000" />
-      <workItem from="1561016580305" duration="242000" />
+      <workItem from="1561016580305" duration="1622000" />
+      <workItem from="1561044210372" duration="6998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61869000" />
+    <option name="totallyTimeSpent" value="70247000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -362,9 +403,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44553706" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -374,19 +416,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5102041" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.77210885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.74659866" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24659865" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.12414966" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32993197" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="TypeScript" order="14" weight="0.4030612" />
+      <window_info anchor="bottom" id="TypeScript" order="14" weight="0.0" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -455,13 +497,6 @@
     <entry file="file://$PROJECT_DIR$/../../class work/class-works/src/styles.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AuthServelet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../class work/class-works/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -492,34 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CrosFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CustomerServelet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="71" column="49" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ItemServelet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isAuthServelet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -638,6 +645,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="104" selection-start-line="16" selection-start-column="104" selection-end-line="16" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AuthServelet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isAuthServelet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CrosFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CustomerServelet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="198" column="113" lean-forward="true" selection-start-line="198" selection-start-column="113" selection-end-line="198" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ItemServelet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -693,7 +752,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>class work</last-edited>
+          <last-edited>class-works</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
