@@ -1,0 +1,21 @@
+.card-5 {
+  box-shadow: 0 19px 38px rgba(74, 196, 98, 0.66), 0 15px 12px rgba(11, 163, 203, 0.97);
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+
+}
+
+td, th {
+  border: 1px solid #08dd76;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #62ddac;
+}
+

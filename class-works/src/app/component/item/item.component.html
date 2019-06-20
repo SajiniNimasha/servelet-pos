@@ -1,20 +1,22 @@
-<h1>
-  Item works!
-</h1>
+<h3>Manage Items</h3>
+<hr >
 
 
 <!--//////////////////////////////////////////////////////////////////////////////////////-->
 
-
+<div class="card card-5">
 <div class="row">
   <div class="col-12 col-md-6">
-    <form>
-      <p>
-        <button class="btn btn-success" type="reset" (click)="txtId.focus(); ">+ New Item</button>
-      </p>
+    <form style="padding: 10px;">
+      <!--<p>-->
+        <!--<button class="btn btn-success" type="reset" (click)="txtId.focus(); ">+ New Item</button>-->
+      <!--</p>-->
       <p class="form-group">
         <label>Code</label>
         <input name="txtId"  #txtId class="form-control" type="text" [(ngModel)]="selectedItem.code" [minlength]="2">
+
+        <button class="btn btn-primary"><li class="fa fa-fw fa-search"></li>Search Item</button>
+
       </p>
       <p class="form-group">
         <label>Description</label>
@@ -30,17 +32,21 @@
         <input class="form-control" type="number" [value]="selectedItem?.qtyOnHand">
       </p>
 
-      <p>
-        <button class="btn btn-primary">Save</button>
+
+      <p >
+        <button class="btn btn-primary" >Update Item</button>
+        <button class="btn btn-danger">Delete Item</button>
+        <button class="btn btn-success">Add Item</button>
       </p>
+
     </form>
   </div>
-  <div class="col-12 col-md-6">
+  <div class="col-12 col-md-6" style="padding: 30px">
 
 
 
 
-    <table class="table table-hover table-bordered">
+    <table class="table table-hover table-bordered" >
       <tr>
         <th>CODE</th>
         <th>DESCRIPTION</th>
@@ -61,28 +67,10 @@
     </table>
 
 
-
-
-    <!--<table class="table table-hover table-bordered">-->
-      <!--<thead>-->
-      <!--<tr>-->
-        <!--<th>ID</th>-->
-        <!--<th>Name</th>-->
-        <!--<th>Address</th>-->
-      <!--</tr>-->
-      <!--</thead>-->
-      <!--<tbody>-->
-      <!--<tr *ngFor="let customer of customers" (click)="selectedCustomer=customer">-->
-        <!--<td>{{customer.id}}</td>-->
-        <!--<td>{{customer.name}}</td>-->
-        <!--<td>{{customer.address}}</td>-->
-      <!--</tr>-->
-      <!--</tbody>-->
-    <!--</table>-->
   </div>
 </div>
 
-
+</div>
 
 <!--////////////////////////////////////////////////////////////////////////////////////-->
 

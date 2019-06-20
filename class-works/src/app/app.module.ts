@@ -8,6 +8,8 @@ import { DashboardComponent } from './component/dashboard/dashboard.component';
 import { HttpClientModule} from "@angular/common/http";
 import { RouterModule ,Routes } from '@angular/router';
 import {FormsModule} from "@angular/forms";
+import { FooterComponent } from './component/footer/footer.component';
+import { OrderComponent } from './component/order/order.component';
 
 
 const routes1:Routes=[
@@ -20,6 +22,10 @@ const routes1:Routes=[
   {
     path:'items',
     component:ItemComponent
+  },
+  {
+    path:'orders',
+    component:OrderComponent
   },
   {
     path: '',
@@ -36,7 +42,9 @@ const routes1:Routes=[
     AppComponent,
     CustomerComponent,
     ItemComponent,
-    DashboardComponent
+    DashboardComponent,
+    FooterComponent,
+    OrderComponent
   ],
   imports: [
 

@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AuthTestOne.iml" filepath="$PROJECT_DIR$/AuthTestOne.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../angular practice/class work/class work.iml" filepath="$PROJECT_DIR$/../../../angular practice/class work/class work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../class-works/class-works.iml" filepath="$PROJECT_DIR$/../class-works/class-works.iml" />
     </modules>
   </component>
 </project>
