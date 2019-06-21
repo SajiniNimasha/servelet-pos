@@ -127,7 +127,7 @@
           <entry key="html" value="508" />
           <entry key="java" value="83" />
           <entry key="scss" value="22" />
-          <entry key="ts" value="953" />
+          <entry key="ts" value="974" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -135,7 +135,7 @@
           <entry key="HTML" value="508" />
           <entry key="JAVA" value="83" />
           <entry key="SCSS" value="22" />
-          <entry key="TypeScript" value="953" />
+          <entry key="TypeScript" value="974" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -162,8 +162,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/item.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+            <state relative-caret-position="367">
+              <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -174,8 +174,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="322">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="51" selection-end-column="3" />
               <folding>
                 <element signature="e#1#44#0" expanded="true" />
               </folding>
@@ -338,7 +338,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561139531201" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561140002241" />
     <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../class-works" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -458,12 +458,12 @@
       <workItem from="1561016580305" duration="1622000" />
       <workItem from="1561044210372" duration="10456000" />
       <workItem from="1561101114435" duration="7848000" />
-      <workItem from="1561122402394" duration="11797000" />
+      <workItem from="1561122402394" duration="12077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93350000" />
+    <option name="totallyTimeSpent" value="93630000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -820,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="322">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="51" selection-end-column="3" />
           <folding>
             <element signature="e#1#44#0" expanded="true" />
           </folding>
@@ -830,8 +830,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/item.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+        <state relative-caret-position="367">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
