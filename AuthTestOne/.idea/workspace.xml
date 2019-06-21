@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dd07e7e-d4cb-4ad9-b7a5-99fce4789d36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/AuthTestOne_war_exploded/WEB-INF/classes/CrosFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AuthTestOne_war_exploded/WEB-INF/classes/CrosFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/AuthTestOne_war_exploded/WEB-INF/classes/CustomerServelet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AuthTestOne_war_exploded/WEB-INF/classes/CustomerServelet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/AuthTestOne_war_exploded/WEB-INF/classes/ItemServelet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/AuthTestOne_war_exploded/WEB-INF/classes/ItemServelet.class" afterDir="false" />
@@ -20,8 +19,11 @@
       <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class-works/src/app/dto/Customer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/dto/Customer.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class-works/src/app/service/item.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/app/service/item.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class-works/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../class-works/src/environments/environment.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -106,34 +108,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="18" />
+          <entry key="html" value="23" />
           <entry key="java" value="17" />
           <entry key="scss" value="9" />
-          <entry key="ts" value="36" />
+          <entry key="ts" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="18" />
+          <entry key="HTML" value="23" />
           <entry key="JAVA" value="17" />
           <entry key="SCSS" value="9" />
-          <entry key="TypeScript" value="36" />
+          <entry key="TypeScript" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="329" />
+          <entry key="html" value="489" />
           <entry key="java" value="83" />
           <entry key="scss" value="22" />
-          <entry key="ts" value="616" />
+          <entry key="ts" value="852" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="329" />
+          <entry key="HTML" value="489" />
           <entry key="JAVA" value="83" />
           <entry key="SCSS" value="22" />
-          <entry key="TypeScript" value="616" />
+          <entry key="TypeScript" value="852" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -145,32 +147,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../class-works/src/app/dto/Customer.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="25" column="85" lean-forward="true" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
+            <state relative-caret-position="361">
+              <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="88" />
               <folding>
                 <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -178,11 +159,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="357">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
               <folding>
                 <element signature="e#1#44#0" expanded="true" />
               </folding>
@@ -191,32 +172,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CrosFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/../class-works/src/app/dto/item.ts">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../class-works/src/environments/environment.ts">
+        <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/item.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="385">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../class-works/src/app/app.module.ts">
+        <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-439">
+            <state relative-caret-position="309">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="42" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/item/item.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
               <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/item/item.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -258,12 +257,15 @@
         <option value="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.scss" />
         <option value="$PROJECT_DIR$/src/CustomerServelet.java" />
         <option value="$PROJECT_DIR$/src/ItemServelet.java" />
-        <option value="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html" />
         <option value="$PROJECT_DIR$/../class-works/src/app/dto/Customer.ts" />
         <option value="$PROJECT_DIR$/../class-works/src/environments/environment.ts" />
-        <option value="$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts" />
         <option value="$PROJECT_DIR$/src/CrosFilter.java" />
+        <option value="$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts" />
         <option value="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.ts" />
+        <option value="$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html" />
+        <option value="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.html" />
+        <option value="$PROJECT_DIR$/../class-works/src/app/component/item/item.component.ts" />
+        <option value="$PROJECT_DIR$/../class-works/src/app/service/item.service.ts" />
       </list>
     </option>
   </component>
@@ -297,7 +299,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1306" />
@@ -314,15 +316,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AuthTestOne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AuthTestOne" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
               <item name="class-works" type="462c0819:PsiDirectoryNode" />
@@ -344,6 +337,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="class-works" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="item" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AuthTestOne" type="b2602c69:ProjectViewProjectNode" />
@@ -375,7 +376,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561125542985" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561135676263" />
     <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../class-works" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -495,12 +496,12 @@
       <workItem from="1561016580305" duration="1622000" />
       <workItem from="1561044210372" duration="10456000" />
       <workItem from="1561101114435" duration="7848000" />
-      <workItem from="1561122402394" duration="3079000" />
+      <workItem from="1561122402394" duration="9364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84632000" />
+    <option name="totallyTimeSpent" value="90917000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -512,10 +513,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22087745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -525,13 +526,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.16156463" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.21428572" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.74659866" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37244898" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42857143" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32993197" />
@@ -556,14 +557,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/META-INF/context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../class work/class-works/src/app/service/customer.service.spec.ts" />
     <entry file="file://$PROJECT_DIR$/../../class work/class-works/src/app/customer.ts" />
     <entry file="file://$PROJECT_DIR$/../../class work/class-works/src/app/customer.spec.ts" />
     <entry file="file://$PROJECT_DIR$/../../class work/class-works/src/app/component/customer/customer.component.spec.ts">
@@ -748,9 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../class-works/src/app/dto/item.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../class-works/src/app/app.component.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -786,16 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/item.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CustomerServelet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3128">
@@ -812,39 +792,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../class-works/src/app/dto/Customer.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../class-works/src/environments/environment.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="25" column="85" lean-forward="true" selection-start-line="25" selection-start-column="85" selection-end-line="25" selection-end-column="85" />
-          <folding>
-            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding>
-            <element signature="e#1#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -856,12 +809,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/dto/Customer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/item/item.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="88" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/customer/customer.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        <state relative-caret-position="309">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/component/item/item.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
           <folding>
-            <element signature="e#0#59#0" expanded="true" />
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/item.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/dto/item.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../class-works/src/app/service/customer.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="e#1#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
